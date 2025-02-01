@@ -1,4 +1,4 @@
 Name: Michelle Ann P. Empalmado
-Section: BSCS 1B
+Section: 
 Program: BS Computer Science
 Address: San Pablo City
